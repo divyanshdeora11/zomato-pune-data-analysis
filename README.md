@@ -44,17 +44,10 @@ This project dives into 12,000+ restaurants listed on Zomato in Pune to understa
 
 ---
 
-## 📎 Links
-
-- 🔗 [LinkedIn Post](www.linkedin.com/in/divyansh-deora-a3b55822a)    
-
----
-
 ## 🙋‍♂️ About the Author
 
 **Divyansh Deora** – Final year B.Tech student, passionate about analytics & business insights.  
 📧 [Email Me](mailto:divyanshdeora2023@gmail.com)
-🔗 [LinkedIn](www.linkedin.com/in/divyansh-deora-a3b55822a)
 
 ---
 
